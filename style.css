@@ -72,12 +72,14 @@ table {
     .calculadora {
         height: 85vh;
         padding: 1px;
+        text-align: center;
         width: 45vh;
     }
 
     .botao {
         font-size: 1.5rem;
         height: 9vh;
+        text-align: center;
         width: 9vh;
     }
 }
