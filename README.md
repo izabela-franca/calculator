@@ -1,3 +1,5 @@
+# calculator
+
 In this project, I put in practice the use JavaScript in a front-end environment, practicing functions and events.
 
 _________________________________________________________________________________________________________________________
