@@ -68,15 +68,16 @@ table {
 
 /*Responsividade*/
 @media screen and (max-width: 400px) {
+
     .calculadora {
-        height: 65vh;
+        height: 85vh;
         padding: 1px;
-        width: 32vh;
+        width: 45vh;
     }
 
     .botao {
-        font-size: 1.2rem;
-        height: 6vh;
-        width: 6vh;
+        font-size: 1.5rem;
+        height: 9vh;
+        width: 9vh;
     }
 }
