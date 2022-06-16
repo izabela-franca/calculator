@@ -78,14 +78,11 @@ table {
         width: 45vh;
     }
 
-    td {
-        text-align: center;
-    }
-
     .botao {
         font-size: 1.5rem;
         height: 9vh;
         text-align: center;
         width: 9vh;
     }
+
 }
